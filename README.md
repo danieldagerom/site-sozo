@@ -1,5 +1,5 @@
 # Site do SOZO
-Este repositório é destinado ao desenvolvimento da pagina web de informações do SOZO. SOZO é o grupo de jovens da igreja de cristo de Taguatinga Sul.
+Este repositório é destinado ao desenvolvimento da pagina web de informações do SOZO. SOZO é o grupo de jovens da igreja de cristo de Taguatinga Sul (DF).
 
 
 ## Linguagens utilizadas
