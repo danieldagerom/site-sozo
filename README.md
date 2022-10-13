@@ -19,3 +19,6 @@ Como foi dito anteriormente, esse site será para a melhor comunicação entre o
 ```shell
     yarn start
 ```
+
+## Considerações 
+Depois de um tempo parado, estamos retornando com o projeto do site sozo, que usará linguagens e tecnologias atuais como forma de desenvolvimento.
